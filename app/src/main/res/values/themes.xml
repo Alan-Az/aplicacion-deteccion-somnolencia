@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.AplicacionDeSomnolencia" parent="Theme.MaterialComponents.Light" />
+</resources>
